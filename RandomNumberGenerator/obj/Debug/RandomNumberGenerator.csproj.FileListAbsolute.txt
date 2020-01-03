@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe.config
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.pdb
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Form1.resources
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Properties.Resources.resources
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
+C:\Users\Alex\Documents\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb
